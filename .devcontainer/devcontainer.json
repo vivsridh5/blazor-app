@@ -25,7 +25,10 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-			  "streetsidesoftware.code-spell-checker"
+			  "streetsidesoftware.code-spell-checker",
+			  "fudge.auto-using",
+			  "gerane.theme-azure"
+
 			]
 		  }
 	}
